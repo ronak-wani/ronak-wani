@@ -13,7 +13,7 @@ I am **Ronak Wani**, an undergraduate student of Bachelor of Science in Computer
 * **Animate**, GoatHacks WPI, Jan 2023
 * **Recycle the World**, Great Problems Seminar (GPS), Dec 2022
 * **Contact Directory**, RMIT GSSP Australia, Oct 2021
-* **All_in_one.apk**, Google Code to Learn, Dec 2018
+* **Android Assistant**, Google Code to Learn, Dec 2018
   
 # 📈 Experiences:
 * **ARC Peer Tutor**, April. 2023 – present
