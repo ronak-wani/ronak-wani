@@ -8,6 +8,13 @@ I am **Ronak Wani**, an undergraduate student of Bachelor of Science in Computer
 * **Design**: Canva, CorelDRAW, GIMP, Paint 3D
 * **Video Editing**: Filmora V11, Camtasia, Final Cut Pro
 * **Languages**: English, Hindi, Gujarati, Marathi, Sanskrit, Spanish (Elementary)
+  
+# 📈 Experiences:
+* **ARC Peer Tutor**, April. 2023 – present
+* **WordPress Admin, Young Scientists Journal**, Sept. 2021 – May 2022
+* **AP Computer Science A Curriculum Developer and Tutor**, InterSTEM, May 2021 – Apr. 2022
+* **Founder and Chairman, Sulonia CS: Computer Science Club**, Sept. 2020 – Aug. 2022
+* **IT Assistant Head, Rotaract Club Singhania**, June 2020 – May 2022
 
 # 🏆 Accomplishments:
 * **WPI Dean's List: A/B 2022, C/D 2023**
