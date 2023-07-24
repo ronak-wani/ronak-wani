@@ -1,10 +1,18 @@
 ### Hi there 👋
 I am **Ronak Wani**, an undergraduate student of Bachelor of Science in Computer Science at **[Worcestor Polytechnic Institute (WPI)](https://www.wpi.edu/)**, Massachusetts, USA. 
+# 🛠️ Skills:
+* **Software**: MS Office Suite, LibreOffice Suite, Adobe Suite, GitHub, Linux (Ubuntu)
+* **Programming** : R, HTML, CSS, C/C++, C#, Java, Python, Racket, MATLAB, x86-64 Instruction Set
+* **Tools**: GDB, CMD, VSC, CLion, IntelliJ, Eclipse, BlueJ, RStudio, Trinket, PyCharm, Jupyter
+* **Data Analysis**: NumPy, MatPlotLib, Seaborn, Pandas, SciPy, Scikit-learn
+* **Design**: Canva, CorelDRAW, GIMP, Paint 3D
+* **Video Editing**: Filmora V11, Camtasia, Final Cut Pro
+* **Languages**: English, Hindi, Gujarati, Marathi, Sanskrit, Spanish (Elementary)
 
 # 🏆 Achievement:
 **Charles O. Thompson Scholar**
 * Issued by Arne Gericke (Dean of Undergraduate Studies, ad interim | Worcester Polytechnic Institute)
-  
+
 **WPI Presidential Award, Two Towers Award, International Award**
 * Issued by Jennifer Cluett (Executive Director of Admissions | Worcester Polytechnic Institute)
   
