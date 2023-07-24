@@ -9,6 +9,12 @@ I am **Ronak Wani**, an undergraduate student of Bachelor of Science in Computer
 * **Video Editing**: Filmora V11, Camtasia, Final Cut Pro
 * **Languages**: English, Hindi, Gujarati, Marathi, Sanskrit, Spanish (Elementary)
   
+# 🎯 Projects:
+* **Animate**, GoatHacks WPI, Jan 2023
+* **Recycle the World**, Great Problems Seminar (GPS), Dec 2022
+* **Contact Directory**, RMIT GSSP Australia, Oct 2021
+* **All_in_one.apk**, Google Code to Learn, Dec 2018
+  
 # 📈 Experiences:
 * **ARC Peer Tutor**, April. 2023 – present
 * **WordPress Admin, Young Scientists Journal**, Sept. 2021 – May 2022
