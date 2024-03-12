@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am **Ronak Wani**, an undergraduate student of Bachelor of Science in Computer Science at **[Worcestor Polytechnic Institute (WPI)](https://www.wpi.edu/)**, Massachusetts, USA. 
 # 🛠️ Skills:
-* **Software**: MS Office Suite, LibreOffice Suite, Adobe Suite, GitHub, Linux (Ubuntu)
+* **Software**: MS Office Suite, LibreOffice Suite, Adobe Creative Cloud, GitHub, Linux (Ubuntu)
 * **Programming** : R, HTML, CSS, C/C++, C#, Java, Python, Racket, MATLAB, x86-64 Instruction Set
 * **Frameworks**: Flask, Django
 * **Tools**: GDB, CMD, VSC, CLion, IntelliJ, Eclipse, BlueJ, RStudio, Trinket, PyCharm, Jupyter Notebook, WebStorm
