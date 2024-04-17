@@ -3,7 +3,7 @@ I am **Ronak Wani**, an undergraduate student of Bachelor of Science in Computer
 # 🛠️ Skills:
 * **Software**: MS Office Suite, LibreOffice Suite, Adobe Creative Cloud, GitHub, Linux (Ubuntu)
 * **Programming** : R, HTML, CSS, C/C++, C#, Java, Python, Racket, MATLAB, x86-64 Instruction Set
-* **Frameworks**: Flask, Django,Express.js
+* **Frameworks**: Express.js, Node.js, Flask, Django,
 * **Tools**: GDB, CMD, VSC, CLion, IntelliJ, Eclipse, BlueJ, RStudio, Trinket, PyCharm, Jupyter Notebook, WebStorm
 * **Data Analysis**: NumPy, MatPlotLib, Seaborn, Pandas, SciPy, Scikit-learn
 * **Design**: Canva, Figma, CorelDRAW, GIMP, Paint 3D
