@@ -6,7 +6,7 @@ I am **Ronak Wani**, an undergraduate student of Bachelor of Science in Computer
 * **Frameworks**: Flask, Django, FastAPI, Spring boot, VITE React.js, Node.js, Express.js, Next.js, Tailwind, Shadcn/UI
 * **Databases**: SQLite, Oracle SQL, JDBC, MongoDB, ChromaDB, Milvus, FAISS
 * **Gen AI Toolkit**: LangChain, Llamaindex, Langroid, Microsoft Autogen, Ollama
-* **DevOps Tools**: GDB, CMD, CUDA, Git, Docker, Jupyter Notebook, VEX V5, SLURM (Turing Cluster)
+* **DevOps Tools**: GDB, CMD, CUDA, Git, Bash, SSH, Docker, Jupyter Notebook, VEX V5, SLURM (Turing Cluster)
 * **Data Analysis**: NumPy, MatPlotLib, Seaborn, Pandas, SciPy, Scikit-learn, Analysis ToolPak
 * **Design**: Canva, Figma, CorelDRAW, GIMP, Paint 3D
 * **Video Editing**: Filmora V11, Camtasia, Final Cut Pro
