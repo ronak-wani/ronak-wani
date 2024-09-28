@@ -4,7 +4,7 @@ I am **Ronak Wani**, an undergraduate student of Bachelor of Science in Computer
 * **Software**: MS Office Suite, LibreOffice Suite, Adobe Creative Cloud, GitHub, Linux (Ubuntu), HuggingFace, Vercel
 * **Programming** : R, HTML, CSS, C/C++, C#, Java, Python, Racket, MATLAB, JavaScript, x86-64 Instruction Set
 * **Frameworks**: Flask, Django, FastAPI, Spring boot, VITE React.js, Node.js, Express.js, Next.js, Tailwind, Shadcn/UI
-* **Databases**: SQLite, Oracle SQL, MongoDB, ChromaDB, Milvus, FAISS
+* **Databases**: SQLite, Oracle SQL, JDBC, MongoDB, ChromaDB, Milvus, FAISS
 * **Gen AI Toolkit**: LangChain, Llamaindex, Langroid, Microsoft Autogen, Ollama
 * **DevOps Tools**: GDB, CMD, CUDA, Git, Docker, Jupyter Notebook, VEX V5, SLURM (Turing Cluster)
 * **Data Analysis**: NumPy, MatPlotLib, Seaborn, Pandas, SciPy, Scikit-learn, Analysis ToolPak
